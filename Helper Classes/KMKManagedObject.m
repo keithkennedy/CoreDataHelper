@@ -1,8 +1,6 @@
 //
 //  KMKManagedObject.m
-//  SwiftSMS
-//
-//  Created by Keith Kennedy on 03/04/2013.
+//  Created by Keith Kennedy.
 //
 //
 

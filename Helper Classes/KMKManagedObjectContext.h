@@ -1,9 +1,6 @@
 //
 //  KMKManagedObjectContext.h
-//  CalAdd
-//
-//  Created by Keith Kennedy on 22/03/2014.
-//  Copyright (c) 2014 Keith Kennedy. All rights reserved.
+//  Created by Keith Kennedy.
 //
 
 #import <CoreData/CoreData.h>
